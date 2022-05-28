@@ -79,8 +79,10 @@
 + <https://chall.stypr.com/>
 + <https://github.com/Corb3nik/rubik> | Corb3nik/rubik: CTF collaboration tool for teams>
 + <https://pastebin.com/6EH6X0yL> | web challenges list (2016) - Pastebin.com
-+ A path to try for web based on challenge difficulty:>
-+ <https://portswigger.net/web-security> (start here for an overview of all vulns)>
+
+**A path to try for web based on challenge difficulty:**
+
+ <https://portswigger.net/web-security> (start here for an overview of all vulns)>
 + (Beginner) <root-me.org>
 + (Medium) <ringzer0ctf.com>
 + (Hard) <websec.fr>
