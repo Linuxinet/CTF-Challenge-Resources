@@ -16,7 +16,7 @@
 + <http://reversing.kr/>
 + <https://gist.github.com/muff-in/ff678b1fda17e6188aa0462a99626121> - curated list of RE resources
  
-+ ## Courses>
+## Courses
 
 + <https://guyinatuxedo.github.io/index.html> - "Nightmare" introductory course based on challenges
 + <https://pwn.college/> - pwn.college (expects you to know C, Python and Assembly prior to starting)
